@@ -7,6 +7,10 @@
         body { font-family: Arial, sans-serif; margin: 40px; }
         .error { color: red; }
         .success { color: green; }
+        img { max-width: 100%; height: auto; margin: 20px 0; }
+        table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
     </style>
 </head>
 <body>
@@ -20,6 +24,18 @@
     {% endif %}
     {% if message %}
         <p class="success">{{ message }}</p>
+    {% endif %}
+    {% if scatter_plot %}
+        <h2>Scatter Plot</h2>
+        <img src="{{ url_for('static', filename=scatter_plot) }}" alt="Scatter Plot">
+    {% endif %}
+    {% if box_plot %}
+        <h2>Box Plot</h2>
+        <img src="{{ url_for('static', filename=box_plot) }}" alt="Box Plot">
+    {% endif %}
+    {% if summary %}
+        <h2>Summary Statistics</h2>
+        {{ summary | safe }}
     {% endif %}
 </body>
 </html>
