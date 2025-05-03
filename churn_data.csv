@@ -1,0 +1,1001 @@
+tenure,monthly_charges,contract_type,internet_service,churn
+52,105.56964681062857,One year,No internet,No
+15,103.02198645669915,One year,No internet,No
+61,59.71835296184548,Two year,DSL,Yes
+21,86.80851365706462,Month-to-month,No internet,No
+24,40.4984295415821,One year,No internet,No
+3,49.31477302610133,Month-to-month,No internet,Yes
+22,109.63358185211197,One year,DSL,Yes
+53,21.300192351073605,Two year,DSL,No
+2,28.550853085446807,Two year,No internet,Yes
+30,40.78862551460273,Two year,No internet,Yes
+38,22.65322038738197,One year,DSL,Yes
+2,38.14354350897973,Month-to-month,Fiber optic,No
+64,78.30415609696922,Month-to-month,No internet,No
+60,62.1424550592498,Month-to-month,Fiber optic,No
+21,109.26717110769748,One year,No internet,No
+33,101.7443561738441,One year,Fiber optic,No
+58,54.1817351697876,One year,Fiber optic,No
+22,45.94234334312925,One year,Fiber optic,No
+49,57.96924081672669,One year,DSL,No
+59,79.02949425148077,Month-to-month,Fiber optic,No
+42,46.80636408228763,One year,Fiber optic,No
+60,82.41489078491341,One year,Fiber optic,Yes
+15,60.941165219124045,Month-to-month,No internet,No
+62,75.20471808519802,One year,Fiber optic,No
+62,63.61265291353167,Month-to-month,No internet,No
+47,49.44657595419177,Month-to-month,Fiber optic,Yes
+62,114.84533069621567,Two year,Fiber optic,No
+51,96.36057941597608,Two year,DSL,No
+55,34.011317576645254,Two year,No internet,No
+64,106.84679758979128,Two year,Fiber optic,No
+3,68.74311982495136,One year,No internet,No
+51,109.45522268940914,Two year,No internet,No
+7,99.98552559473153,Month-to-month,DSL,No
+21,62.52135044692334,One year,DSL,Yes
+39,22.24693083201174,Two year,DSL,No
+18,46.867735938494604,Month-to-month,DSL,No
+4,74.16342146608669,One year,DSL,No
+60,83.34782198261473,One year,DSL,No
+14,45.78876854332023,Two year,DSL,No
+9,33.93560740728241,One year,DSL,No
+53,103.4930236799299,Month-to-month,Fiber optic,No
+2,118.44021807035521,One year,No internet,No
+60,72.56901823026858,Month-to-month,DSL,No
+71,37.16792858483035,One year,DSL,No
+44,47.2307326519369,Two year,No internet,Yes
+8,21.839067654746675,Month-to-month,Fiber optic,No
+47,111.4298806560499,One year,No internet,No
+35,31.775108289014113,One year,No internet,No
+36,77.65164755142536,One year,DSL,No
+50,47.4055220687206,Month-to-month,No internet,No
+4,75.41780025157934,Month-to-month,No internet,No
+2,85.14203883518643,Month-to-month,DSL,No
+6,102.97418037072016,Two year,DSL,Yes
+54,40.64212717606032,Two year,DSL,Yes
+4,21.09958286584805,Month-to-month,DSL,Yes
+54,33.68856300688073,One year,No internet,No
+63,110.00186418481051,Two year,No internet,No
+18,107.38900775625153,Month-to-month,Fiber optic,No
+44,79.74131021703083,One year,Fiber optic,No
+34,80.05168604336534,Two year,No internet,No
+62,86.50366745462554,One year,Fiber optic,Yes
+14,37.53712786234496,One year,No internet,No
+48,111.44119459249598,One year,Fiber optic,No
+15,61.87705248920731,One year,DSL,Yes
+62,58.31385282494975,Two year,Fiber optic,Yes
+40,71.89177052828376,Two year,DSL,Yes
+53,24.696596677505504,Two year,DSL,Yes
+24,36.62833687560794,Month-to-month,DSL,No
+26,93.80336164263704,Two year,DSL,Yes
+60,28.279866792512646,One year,Fiber optic,No
+41,80.31521094663881,Two year,No internet,No
+29,44.534910968132095,One year,DSL,No
+15,58.929561404197656,Month-to-month,Fiber optic,No
+45,48.86937367706999,One year,DSL,No
+65,55.567271646494916,One year,Fiber optic,No
+71,91.90459051842456,One year,Fiber optic,No
+9,49.7121715623175,Month-to-month,Fiber optic,Yes
+1,76.64046402968972,Two year,No internet,No
+8,67.60504021990997,Two year,Fiber optic,Yes
+63,86.36711653626482,Month-to-month,Fiber optic,No
+11,113.6829739324758,One year,No internet,Yes
+8,93.25720972102503,Two year,No internet,No
+35,41.494037859075675,Month-to-month,Fiber optic,No
+35,23.118313506128466,Two year,No internet,No
+33,46.22640442998251,Month-to-month,DSL,No
+5,79.50779307002549,One year,DSL,No
+41,25.142581348425033,Two year,No internet,Yes
+28,69.63662472012363,Month-to-month,No internet,No
+7,79.68428489168892,Two year,Fiber optic,No
+12,53.424389081696084,Two year,No internet,No
+34,97.09122037458219,Two year,Fiber optic,No
+33,30.65982531337718,Two year,DSL,No
+48,27.513778173580874,Month-to-month,No internet,No
+23,92.81887562036033,One year,Fiber optic,No
+62,69.54913162061985,Month-to-month,Fiber optic,Yes
+37,88.84023964277361,Month-to-month,DSL,Yes
+44,63.48273386037462,Month-to-month,No internet,Yes
+35,44.64020332391068,One year,DSL,No
+65,101.91023176741997,Two year,Fiber optic,No
+47,99.94158789689793,Two year,Fiber optic,No
+3,89.46964708544267,Two year,No internet,No
+1,47.21451372299627,One year,Fiber optic,No
+5,79.0230666869087,Two year,No internet,No
+14,56.09738969400268,One year,DSL,No
+27,29.158207332663416,Two year,No internet,Yes
+9,111.73135754622427,Two year,No internet,Yes
+15,33.68186309189614,Month-to-month,Fiber optic,No
+42,115.02373538208025,One year,Fiber optic,No
+51,64.60057729579557,Month-to-month,No internet,No
+63,38.513292883861965,Month-to-month,Fiber optic,No
+52,74.1900947378358,Month-to-month,Fiber optic,No
+4,107.29458358764083,One year,Fiber optic,Yes
+23,93.22248864095612,One year,No internet,Yes
+15,100.65611478614497,Two year,Fiber optic,No
+43,85.87833667107174,Month-to-month,No internet,No
+29,89.22765645178525,Two year,Fiber optic,No
+36,104.91956515653193,Month-to-month,DSL,No
+13,44.966800885918595,One year,Fiber optic,No
+32,68.94249636431405,One year,Fiber optic,No
+71,42.120944181960226,One year,No internet,No
+59,118.7668007996647,Month-to-month,No internet,No
+28,114.40593396866133,One year,Fiber optic,No
+66,23.942681136850588,Month-to-month,DSL,No
+42,90.55751725156884,Two year,Fiber optic,No
+45,112.52483174156659,Month-to-month,Fiber optic,Yes
+62,38.057534512733355,Two year,DSL,No
+57,76.79452305526294,Month-to-month,No internet,No
+6,111.54882975880419,Two year,Fiber optic,No
+28,23.394597858579885,One year,No internet,No
+28,89.742026724684,Two year,No internet,No
+44,49.734900737255074,One year,DSL,No
+30,112.43961953765304,One year,DSL,No
+62,117.10582451653677,Two year,No internet,Yes
+62,114.42664891134339,Month-to-month,Fiber optic,No
+1,67.42142166574638,Month-to-month,No internet,No
+27,106.20426509893134,Month-to-month,Fiber optic,No
+62,104.45493985350704,Month-to-month,Fiber optic,No
+3,51.91004732432556,Month-to-month,DSL,No
+70,102.89154741506773,One year,Fiber optic,No
+27,23.700763471549262,Month-to-month,Fiber optic,No
+9,79.6269878482053,One year,No internet,No
+62,43.000883728770305,One year,DSL,Yes
+37,32.05668857772788,One year,Fiber optic,No
+51,27.695320162920915,Two year,Fiber optic,No
+44,89.62887758781397,Two year,DSL,No
+24,53.98749637680661,One year,No internet,Yes
+59,92.47667715287615,Two year,DSL,No
+32,26.535634079894237,Month-to-month,DSL,No
+52,51.52903378306104,Month-to-month,Fiber optic,Yes
+62,73.94912923753373,One year,Fiber optic,No
+58,99.07231648389636,Month-to-month,No internet,No
+52,51.87525029320699,One year,Fiber optic,No
+12,82.58913764370091,One year,Fiber optic,No
+39,108.5977748236187,Month-to-month,DSL,No
+2,81.58631881823047,Two year,Fiber optic,No
+3,43.29594747536338,Month-to-month,No internet,No
+56,22.4400781556538,Month-to-month,DSL,Yes
+59,107.00988739009298,One year,No internet,Yes
+2,22.126941085038712,One year,DSL,No
+2,107.47016726841994,One year,Fiber optic,Yes
+54,72.8937134027212,One year,DSL,No
+1,113.90676985128962,Two year,DSL,No
+19,99.87832357736654,Two year,Fiber optic,No
+2,119.79341105333374,Two year,Fiber optic,No
+53,55.071181545171015,One year,No internet,No
+44,96.71882889311269,One year,No internet,No
+32,60.193091360924214,One year,Fiber optic,No
+70,67.98756203039088,Two year,Fiber optic,Yes
+32,82.750546321837,One year,Fiber optic,No
+68,107.36771141863387,Month-to-month,DSL,No
+55,118.40834691992951,Month-to-month,DSL,No
+56,96.82734138645182,One year,DSL,No
+17,61.77667821673337,Month-to-month,Fiber optic,Yes
+38,62.13570022770702,Month-to-month,No internet,No
+24,93.75823015888915,Two year,Fiber optic,No
+69,43.87771457683023,One year,DSL,No
+70,31.047411313139467,One year,DSL,No
+11,55.462215764077655,Two year,Fiber optic,No
+16,48.72389916540817,Month-to-month,Fiber optic,No
+59,49.63081204559901,Month-to-month,DSL,No
+70,43.36077510499099,One year,DSL,No
+3,24.20931896363619,Month-to-month,DSL,No
+20,21.787393473341382,Two year,Fiber optic,Yes
+59,118.77223897360315,Two year,DSL,No
+36,62.77731337358623,One year,DSL,No
+19,58.432664715968166,Two year,No internet,No
+67,87.96472826930699,Two year,Fiber optic,No
+19,41.825388786506416,One year,No internet,No
+20,114.99611839502253,Two year,No internet,No
+71,98.6345014415552,Two year,DSL,No
+52,28.941100231225953,Two year,Fiber optic,No
+33,61.75807757849284,Month-to-month,DSL,Yes
+40,107.91183075621647,One year,Fiber optic,Yes
+39,114.47320222914102,One year,No internet,No
+1,66.74015112498697,One year,Fiber optic,Yes
+11,81.34113892107078,Month-to-month,DSL,Yes
+57,36.70339460920752,Month-to-month,DSL,No
+50,119.11686261369765,One year,DSL,No
+23,43.16717013834434,Month-to-month,Fiber optic,No
+31,114.27317741351257,One year,No internet,Yes
+42,84.96466489923685,Month-to-month,No internet,No
+7,80.77367948788591,Two year,Fiber optic,Yes
+16,71.26885110165085,Two year,DSL,No
+60,43.066981171775865,One year,No internet,No
+2,37.65280320055083,Month-to-month,DSL,No
+1,42.048620907017536,Month-to-month,Fiber optic,No
+48,38.64382621442545,Two year,DSL,Yes
+12,97.95844735667534,Two year,No internet,No
+69,55.01252591667301,Month-to-month,No internet,No
+37,25.784267656339637,Month-to-month,DSL,No
+32,116.91026301408114,Month-to-month,Fiber optic,Yes
+9,108.37858849634257,Month-to-month,DSL,No
+19,112.77522831952129,Month-to-month,Fiber optic,No
+48,119.49078226464353,Month-to-month,DSL,No
+3,37.389524921948734,One year,No internet,No
+20,59.62420189026587,Month-to-month,Fiber optic,No
+24,95.82384757040913,Two year,Fiber optic,No
+54,89.60206180537922,One year,Fiber optic,No
+33,35.389590633985506,Month-to-month,No internet,No
+24,101.58331249906178,Two year,DSL,No
+36,42.44405718366607,One year,No internet,No
+38,42.381761482262306,Two year,Fiber optic,No
+25,73.69744228934135,Month-to-month,DSL,No
+18,79.29399348417031,Month-to-month,No internet,No
+66,78.00862078378111,Month-to-month,Fiber optic,No
+54,29.148683739775485,Month-to-month,Fiber optic,No
+35,107.74608626303804,One year,No internet,No
+61,46.560004258870606,One year,No internet,No
+41,32.95149212828042,Two year,No internet,No
+33,108.87480798689772,Month-to-month,Fiber optic,Yes
+68,115.56514982297534,Two year,No internet,No
+33,106.21276172654507,One year,Fiber optic,No
+14,100.95160747248781,Month-to-month,No internet,Yes
+21,85.52419806390218,Month-to-month,Fiber optic,No
+48,75.08573706091393,One year,Fiber optic,No
+20,28.698675991141016,One year,DSL,Yes
+8,60.845321307069874,One year,No internet,No
+7,57.2688517012314,One year,No internet,No
+67,45.97537837603262,One year,Fiber optic,No
+17,92.3420113688585,Month-to-month,Fiber optic,No
+33,69.58757350787708,One year,Fiber optic,Yes
+48,28.104621590764793,Month-to-month,DSL,Yes
+59,42.01832019498113,Month-to-month,DSL,No
+22,88.32587636595959,One year,Fiber optic,No
+30,27.61308594903002,One year,No internet,No
+38,105.12069140487687,Month-to-month,No internet,Yes
+51,69.51465270139744,One year,DSL,No
+54,68.0586577326648,One year,DSL,Yes
+8,79.24077846595176,One year,Fiber optic,Yes
+27,102.46809659251491,Two year,No internet,No
+27,54.780920790219305,Month-to-month,Fiber optic,No
+21,87.80161525590636,Two year,DSL,No
+30,76.5731963995791,One year,No internet,No
+28,46.70282701694213,Two year,No internet,No
+64,107.8629986355158,One year,DSL,No
+69,99.74260216069281,Two year,Fiber optic,No
+61,85.84518346584255,One year,Fiber optic,No
+48,105.05817290942419,Two year,No internet,No
+19,106.72942009598023,Two year,DSL,No
+4,90.83629767150347,Two year,No internet,Yes
+35,103.7013328363672,Month-to-month,DSL,No
+64,89.74714616692836,Two year,Fiber optic,Yes
+49,88.01407717603004,Month-to-month,DSL,No
+17,81.86113782151844,One year,Fiber optic,No
+44,95.27166395576413,Two year,DSL,Yes
+30,35.86051052930737,One year,No internet,Yes
+46,108.08707591989284,One year,Fiber optic,No
+6,107.1843527745232,Two year,No internet,No
+37,22.924728303455915,Month-to-month,No internet,Yes
+24,102.58167505647627,Two year,Fiber optic,No
+46,32.88698674734452,One year,Fiber optic,No
+53,53.51188542591419,One year,No internet,No
+60,94.35082562916078,Two year,No internet,No
+63,36.07598960483082,Month-to-month,No internet,No
+32,101.79670241190622,Month-to-month,No internet,No
+33,103.21341779577419,One year,Fiber optic,No
+67,70.74677337608362,One year,Fiber optic,No
+18,20.63858717168336,Month-to-month,No internet,Yes
+25,48.70381331749128,Two year,DSL,Yes
+54,81.69269183757422,One year,DSL,Yes
+58,118.11861780274235,Month-to-month,Fiber optic,No
+67,83.18135270166684,One year,No internet,No
+46,45.98035810641598,Two year,No internet,No
+24,83.40057030996113,Month-to-month,Fiber optic,No
+32,73.99853797158555,One year,DSL,No
+47,97.98453951511436,Two year,DSL,Yes
+23,30.69806388269584,One year,DSL,No
+66,96.1027902502028,Two year,Fiber optic,No
+27,74.12665786761103,Two year,DSL,No
+2,116.29920038589947,Month-to-month,Fiber optic,No
+17,54.187216603868606,Two year,Fiber optic,No
+33,83.26218931339481,One year,No internet,No
+9,113.20281055100175,Two year,DSL,No
+43,30.250972799067924,Two year,Fiber optic,No
+48,113.72284872364511,Month-to-month,DSL,No
+39,88.78857223008133,Two year,DSL,Yes
+42,26.78370591051719,Two year,No internet,No
+26,50.096356694681624,One year,DSL,Yes
+50,90.81720886452815,Month-to-month,No internet,No
+25,26.73506014687717,Month-to-month,Fiber optic,Yes
+24,78.21704601762733,Month-to-month,DSL,No
+13,54.588305695295674,Two year,Fiber optic,No
+60,82.0915517767477,Month-to-month,DSL,No
+7,24.574203381251287,Two year,Fiber optic,Yes
+57,107.15368061523763,Two year,DSL,Yes
+36,117.3488969177397,One year,DSL,Yes
+45,116.88778552856915,One year,DSL,Yes
+20,94.96518317429248,One year,DSL,Yes
+65,33.0086240130632,One year,DSL,No
+8,95.82631959290225,One year,DSL,Yes
+16,22.45869164588015,Two year,DSL,Yes
+14,22.212355152899725,Two year,DSL,No
+15,52.36102191495412,Month-to-month,DSL,No
+66,68.86431904046657,Two year,Fiber optic,No
+32,97.04074178077931,Two year,No internet,No
+63,88.32953766065052,One year,DSL,No
+51,64.59027063767483,Two year,No internet,Yes
+25,47.362666628166586,One year,DSL,No
+58,119.71245001577111,Month-to-month,DSL,No
+63,62.6181302235973,Month-to-month,Fiber optic,Yes
+62,65.13870243296755,Two year,Fiber optic,No
+22,36.36238211916692,Month-to-month,No internet,Yes
+58,99.48095487499293,Two year,Fiber optic,Yes
+58,89.36822257814886,Month-to-month,Fiber optic,No
+49,42.07696127887604,One year,No internet,No
+52,28.23810456158427,One year,Fiber optic,No
+42,88.0499302074713,One year,DSL,Yes
+70,85.45112142811352,One year,No internet,No
+15,47.32595269982093,Two year,No internet,No
+54,115.08635622504103,Month-to-month,DSL,No
+60,35.10578917809002,Two year,Fiber optic,No
+8,63.23348010426019,One year,No internet,Yes
+53,114.36159201675989,Two year,No internet,Yes
+60,61.97273169261223,Month-to-month,DSL,No
+5,83.85259476640856,Two year,DSL,No
+68,59.75943979627943,Month-to-month,Fiber optic,No
+6,47.421520234867,Two year,No internet,No
+47,118.39776479598282,Month-to-month,Fiber optic,No
+55,60.9334006315043,Month-to-month,Fiber optic,Yes
+40,109.40992036791344,One year,DSL,No
+52,42.99546058910862,Month-to-month,No internet,Yes
+16,41.31047040250833,One year,No internet,No
+13,23.113408288451136,One year,No internet,No
+30,85.1666825375885,One year,DSL,No
+19,56.852634372376116,Two year,DSL,No
+17,106.4358249839637,Two year,DSL,Yes
+63,67.32099066915572,Two year,DSL,Yes
+19,116.81934279147217,Two year,DSL,Yes
+58,38.55255157031212,Month-to-month,No internet,No
+55,106.86231679556109,Month-to-month,Fiber optic,No
+62,97.65968527917417,Two year,No internet,No
+23,97.0921844644052,Month-to-month,Fiber optic,Yes
+9,104.47832281168877,Month-to-month,DSL,No
+12,96.10239909429988,One year,Fiber optic,No
+1,82.62203216314154,One year,No internet,No
+58,33.12448776823876,One year,No internet,No
+1,23.25261794912519,One year,Fiber optic,No
+34,112.08478478156869,Month-to-month,DSL,No
+48,81.6650314520738,Two year,DSL,Yes
+1,99.65372909761763,Month-to-month,No internet,No
+16,68.15223515125501,Month-to-month,Fiber optic,Yes
+61,31.730818896239448,Month-to-month,DSL,No
+64,32.51857922025504,One year,DSL,No
+63,88.55652872289714,One year,No internet,No
+69,63.030589489946266,One year,DSL,No
+22,40.05247267003367,Two year,Fiber optic,No
+67,69.15945467414369,Month-to-month,No internet,No
+26,26.420893707513407,Two year,No internet,No
+16,78.19714019143987,One year,Fiber optic,No
+51,46.89934044350977,Two year,No internet,No
+57,99.75591006371882,Month-to-month,DSL,No
+29,51.03619589235738,Month-to-month,DSL,No
+69,65.52201490818013,One year,Fiber optic,No
+47,21.162053990810065,One year,DSL,No
+62,27.24468877945589,Two year,Fiber optic,No
+69,59.24935564066848,One year,Fiber optic,Yes
+16,67.99388347171235,One year,DSL,Yes
+48,80.00205481193038,Month-to-month,Fiber optic,No
+39,49.16625787093032,One year,DSL,Yes
+33,89.49818861265426,One year,No internet,No
+23,106.01223971892045,Month-to-month,No internet,No
+10,97.98509888933498,Month-to-month,Fiber optic,No
+69,23.961882534835716,Two year,DSL,No
+34,68.0506947257829,One year,DSL,No
+52,30.493017841817487,Month-to-month,No internet,No
+10,44.204501586252746,Two year,No internet,No
+19,118.66625932671465,Two year,DSL,No
+58,34.24955429015132,One year,Fiber optic,No
+1,69.88881534513561,One year,No internet,Yes
+69,81.81557343181191,Two year,Fiber optic,No
+4,90.2464970544104,Month-to-month,Fiber optic,No
+16,75.96486834869141,Two year,No internet,No
+24,20.977084741918365,One year,Fiber optic,No
+2,52.64613082439919,Month-to-month,Fiber optic,No
+32,71.77116433847115,Month-to-month,DSL,No
+24,28.786649914483334,Two year,Fiber optic,No
+12,55.06269312091808,One year,DSL,Yes
+50,23.320310879136656,Two year,No internet,Yes
+35,27.857849715502073,Two year,No internet,No
+33,59.69232762015961,Two year,DSL,No
+33,33.271575404306034,Month-to-month,No internet,No
+61,76.75408482615582,Month-to-month,Fiber optic,No
+51,88.94649691372658,One year,Fiber optic,No
+43,100.05866991090829,One year,Fiber optic,No
+12,40.01502442448101,Two year,No internet,Yes
+67,36.74825822590698,Two year,Fiber optic,No
+65,30.456784033440023,Two year,No internet,Yes
+33,83.64302495436367,One year,Fiber optic,Yes
+40,90.64757264869012,Month-to-month,DSL,No
+43,23.158614482564204,Month-to-month,No internet,Yes
+44,113.62122462436898,Two year,No internet,Yes
+29,25.197128365147243,Two year,Fiber optic,Yes
+13,74.12963353010704,Two year,No internet,No
+12,90.90605194509165,Two year,No internet,No
+46,107.09691237460856,One year,DSL,No
+2,91.40869321324278,Month-to-month,DSL,No
+35,100.17280830697918,Two year,Fiber optic,No
+8,53.94501925428061,One year,DSL,No
+26,101.48251137465122,Two year,Fiber optic,Yes
+34,28.011484638467515,Two year,Fiber optic,No
+7,109.48166560605276,Month-to-month,Fiber optic,No
+68,74.75923761537362,Two year,No internet,No
+58,101.72977699624937,Month-to-month,DSL,No
+29,65.23182845183001,Month-to-month,Fiber optic,No
+36,84.35776951965249,Month-to-month,DSL,No
+21,72.64026609361133,One year,Fiber optic,No
+36,93.15895217553319,One year,DSL,No
+10,28.162998203058958,Month-to-month,DSL,No
+24,26.03520839905638,Two year,Fiber optic,No
+64,44.71032340101465,Month-to-month,No internet,No
+49,35.95446801131884,Two year,DSL,No
+36,107.17835665922017,Month-to-month,No internet,Yes
+24,41.92139873580443,Two year,No internet,No
+23,117.58652558191314,One year,Fiber optic,Yes
+62,53.68957917711069,Two year,Fiber optic,No
+37,38.21179156886993,Month-to-month,Fiber optic,No
+12,98.96985071424791,One year,DSL,No
+55,85.87077755008761,Two year,Fiber optic,Yes
+13,69.8195716453139,Two year,Fiber optic,No
+23,75.53635509376312,Two year,DSL,Yes
+30,91.92017782722638,Two year,DSL,No
+17,42.84547413312987,Two year,Fiber optic,No
+62,119.63339160567419,One year,Fiber optic,No
+13,117.4793162146783,One year,Fiber optic,No
+59,85.03256863469369,One year,Fiber optic,No
+19,39.95424509291451,One year,No internet,Yes
+49,88.02282424312914,Month-to-month,No internet,No
+12,27.219840897917585,One year,Fiber optic,No
+61,23.065250220580605,Two year,No internet,No
+19,45.76828885112137,Two year,DSL,No
+9,66.26229567393163,One year,No internet,Yes
+71,106.82725054083805,Two year,No internet,No
+28,92.7169069766308,One year,Fiber optic,No
+52,94.2706521199981,Two year,No internet,No
+16,62.54933344480754,Month-to-month,No internet,Yes
+69,54.59349925469629,Month-to-month,No internet,Yes
+12,57.10387629846027,One year,No internet,No
+25,118.76495637360578,One year,DSL,No
+52,24.010919141248248,One year,Fiber optic,Yes
+53,106.70314961224486,Two year,Fiber optic,No
+23,77.86754085723933,One year,DSL,No
+16,63.86154191895905,Month-to-month,No internet,No
+57,92.52576604151365,Two year,DSL,No
+39,68.66689414247028,One year,No internet,No
+53,107.34232380816606,Two year,DSL,No
+42,110.07018640112585,Two year,Fiber optic,No
+58,62.17209268734554,One year,Fiber optic,No
+39,47.682779723505156,Two year,Fiber optic,Yes
+14,79.23503285933623,Month-to-month,No internet,Yes
+5,111.2363345616691,Month-to-month,No internet,No
+35,41.06621890056665,Two year,DSL,Yes
+18,82.29665835634827,One year,DSL,No
+9,83.15602200925206,Two year,Fiber optic,Yes
+58,93.3113022415281,Month-to-month,No internet,Yes
+17,33.15676851272598,Two year,DSL,No
+7,91.58249646820886,Two year,No internet,No
+46,110.9032520665641,Month-to-month,No internet,No
+13,37.968310887024195,Two year,Fiber optic,Yes
+40,43.75433249238776,Two year,Fiber optic,Yes
+42,117.13950940416396,One year,No internet,No
+9,38.097695270948975,One year,No internet,No
+50,105.4385093369579,Month-to-month,No internet,No
+27,69.22778564480348,Month-to-month,No internet,No
+66,44.723107440317705,Month-to-month,Fiber optic,No
+5,107.07499012725114,One year,DSL,No
+29,64.53052550026655,Month-to-month,Fiber optic,No
+37,71.48173539296903,Month-to-month,DSL,No
+38,55.92333693997657,Month-to-month,No internet,No
+8,79.29508514349274,One year,DSL,No
+65,36.352387258502276,Two year,Fiber optic,No
+17,59.10815366517607,Month-to-month,Fiber optic,No
+71,116.94123223352875,Two year,No internet,Yes
+45,45.81334327011275,Month-to-month,Fiber optic,Yes
+4,85.67366645412922,Two year,No internet,No
+36,52.51900642246949,One year,Fiber optic,No
+70,97.34731256866006,One year,Fiber optic,Yes
+31,33.08736607183498,Month-to-month,No internet,No
+19,116.98210450785447,Two year,DSL,No
+61,65.37895413836392,One year,Fiber optic,No
+54,43.605046334646396,Month-to-month,DSL,No
+39,27.349674733001265,Month-to-month,Fiber optic,No
+19,36.97579050875407,One year,Fiber optic,Yes
+39,71.97739485560177,One year,Fiber optic,Yes
+67,53.70031764312863,Month-to-month,Fiber optic,Yes
+45,102.88833658826094,Two year,DSL,No
+13,63.08875236618059,Two year,DSL,Yes
+58,44.87142725876299,Two year,Fiber optic,No
+20,81.714498660403,Month-to-month,Fiber optic,No
+61,90.67772168854458,One year,DSL,No
+39,36.704190790094984,Month-to-month,No internet,Yes
+1,36.761921628831765,One year,No internet,Yes
+3,23.667142693354297,Two year,DSL,Yes
+62,93.64020150656405,Two year,Fiber optic,No
+63,86.38045276218051,One year,Fiber optic,No
+25,67.46308757498139,One year,No internet,Yes
+56,104.41704489691972,Month-to-month,No internet,Yes
+33,100.56701529500532,Two year,DSL,Yes
+38,78.53543643967521,Month-to-month,No internet,Yes
+6,106.82712805132586,Month-to-month,DSL,No
+58,40.58412100367683,Month-to-month,No internet,No
+44,31.19196193977279,Two year,No internet,No
+45,46.97496115169896,Month-to-month,No internet,No
+32,25.708685608931486,Month-to-month,Fiber optic,Yes
+45,73.1169528001032,Month-to-month,Fiber optic,No
+61,113.66056922949615,Month-to-month,Fiber optic,No
+47,23.934354066850965,Month-to-month,No internet,No
+21,32.21099140100268,Month-to-month,DSL,No
+36,65.21990282834352,Two year,DSL,Yes
+19,113.38750175279048,Month-to-month,DSL,Yes
+20,51.61561049767505,One year,DSL,Yes
+57,70.72348086883925,Month-to-month,Fiber optic,No
+18,24.15728590503921,Month-to-month,Fiber optic,No
+47,34.834320096208884,Two year,No internet,No
+49,118.66301229588468,Two year,No internet,No
+14,116.51186964360456,One year,DSL,No
+15,20.49399809344096,One year,Fiber optic,No
+31,115.18117854232389,Two year,DSL,Yes
+1,83.91199378155004,Two year,No internet,No
+54,106.79182945200222,Month-to-month,No internet,Yes
+3,65.47398556338591,Two year,DSL,No
+16,71.55960285792503,One year,No internet,No
+57,68.88465802569202,Month-to-month,DSL,Yes
+12,86.68642575461044,One year,Fiber optic,No
+16,33.96512547563129,Month-to-month,DSL,No
+24,22.997358987267795,Two year,Fiber optic,No
+28,50.79299415911909,One year,Fiber optic,No
+8,90.46807627366466,Month-to-month,No internet,No
+36,40.185345212294834,Month-to-month,No internet,Yes
+8,87.34324333249174,Two year,No internet,Yes
+58,116.99120461072704,Two year,DSL,Yes
+60,29.39007157894184,Two year,DSL,No
+50,87.26021182251263,One year,No internet,Yes
+28,64.37502193045711,Month-to-month,DSL,No
+41,106.81422543775054,Two year,No internet,No
+64,37.71497894473859,One year,DSL,No
+27,89.26259522261645,One year,Fiber optic,No
+63,103.81152896481102,One year,Fiber optic,No
+17,114.46142194740233,Two year,No internet,No
+33,88.32480282896458,Two year,DSL,Yes
+29,69.71747640084273,Month-to-month,DSL,Yes
+13,81.78472402012139,Month-to-month,Fiber optic,No
+46,106.89049844787182,Two year,Fiber optic,Yes
+35,77.06097466388297,One year,No internet,Yes
+6,23.038705969683686,One year,Fiber optic,No
+69,113.09486955069778,One year,No internet,Yes
+47,88.95267510315611,Month-to-month,Fiber optic,No
+25,87.65133857772466,One year,Fiber optic,Yes
+66,41.567515239771716,Month-to-month,DSL,No
+10,85.88854702326572,Month-to-month,Fiber optic,No
+56,59.386440565415846,One year,Fiber optic,No
+30,85.12329770414921,One year,No internet,No
+5,30.659303030799073,Two year,Fiber optic,No
+33,85.7845304603036,Two year,No internet,Yes
+65,119.94137257706666,One year,Fiber optic,No
+18,24.821203886055603,Month-to-month,Fiber optic,No
+49,117.71741842213173,Month-to-month,No internet,No
+11,60.690796072287064,Month-to-month,DSL,No
+26,107.07534503372591,Month-to-month,No internet,Yes
+63,98.23854840582734,Month-to-month,No internet,No
+59,76.70162609866678,Two year,No internet,No
+27,93.84492092513266,One year,DSL,Yes
+49,107.8515561301348,Two year,Fiber optic,No
+33,60.4140321651033,Month-to-month,No internet,Yes
+1,52.70331615632387,Month-to-month,No internet,Yes
+21,86.75933855635847,Month-to-month,DSL,Yes
+55,100.78459419412586,Month-to-month,No internet,Yes
+6,96.22851347766158,One year,Fiber optic,No
+69,99.78136488586345,Month-to-month,DSL,Yes
+5,63.5583314812933,One year,Fiber optic,No
+3,101.78342161750216,Month-to-month,Fiber optic,No
+53,32.02090553706084,One year,DSL,Yes
+23,74.44890979608496,Two year,No internet,No
+53,20.575866049812156,Month-to-month,Fiber optic,No
+37,52.45858299002703,One year,Fiber optic,No
+17,56.646153487139784,Two year,Fiber optic,Yes
+1,59.61726916092554,Month-to-month,Fiber optic,No
+51,89.54672066898621,Month-to-month,DSL,No
+45,58.85581012703457,Month-to-month,DSL,Yes
+4,64.86936226225306,One year,Fiber optic,Yes
+62,43.754413087432745,One year,No internet,No
+65,57.325179162934006,Two year,Fiber optic,Yes
+32,42.72696272631515,One year,No internet,No
+34,27.319592376844362,One year,Fiber optic,No
+39,80.34485933813778,Month-to-month,No internet,No
+26,86.82127985550163,Month-to-month,Fiber optic,No
+34,81.94903460096145,Month-to-month,No internet,Yes
+54,66.34940438005724,Month-to-month,Fiber optic,Yes
+3,57.978578017922985,Month-to-month,Fiber optic,No
+50,106.33336495718252,Month-to-month,No internet,No
+12,71.9081785136218,Month-to-month,DSL,No
+65,67.9181877629731,Two year,No internet,Yes
+54,22.564206580643567,Two year,DSL,Yes
+5,54.12478276261564,Two year,Fiber optic,Yes
+57,58.019561878585705,Two year,No internet,No
+17,59.88227808969005,Month-to-month,No internet,Yes
+47,78.01723692273322,Two year,No internet,No
+23,73.36025467268784,Month-to-month,DSL,No
+14,80.79050927934446,Two year,DSL,No
+66,96.48832615421283,One year,Fiber optic,No
+51,101.29857387160935,Two year,DSL,Yes
+38,91.81230762264944,Two year,DSL,No
+64,115.55236959549347,Month-to-month,Fiber optic,No
+38,21.823258267636163,Two year,No internet,No
+50,39.57779856835461,One year,No internet,No
+30,20.756287497814213,Month-to-month,Fiber optic,No
+51,84.7474714154603,Month-to-month,No internet,Yes
+63,109.8030548949987,Two year,DSL,Yes
+52,44.34822965762993,Month-to-month,Fiber optic,No
+38,112.70345447963066,Month-to-month,Fiber optic,No
+30,26.026739028956086,Month-to-month,Fiber optic,Yes
+51,113.44360268055144,Month-to-month,No internet,No
+5,55.16226872396344,Month-to-month,Fiber optic,No
+29,30.142082844921653,Month-to-month,Fiber optic,Yes
+4,68.58717591863257,One year,Fiber optic,No
+10,45.677656772050796,Two year,No internet,No
+56,48.48729019619228,One year,DSL,Yes
+17,50.72899649262865,Month-to-month,Fiber optic,No
+17,100.30258978326634,Month-to-month,DSL,No
+69,73.91612766752544,Two year,No internet,No
+34,51.13076991560037,One year,No internet,No
+6,81.03337833109184,Two year,No internet,No
+53,91.61506742231936,One year,No internet,No
+66,47.262400073353376,Month-to-month,DSL,No
+43,61.354910152535155,Two year,Fiber optic,No
+23,32.18860933369476,Two year,No internet,Yes
+55,38.11493495346803,Month-to-month,No internet,Yes
+16,88.11178539649828,Two year,DSL,Yes
+8,38.143834769562694,One year,DSL,No
+4,72.51633836670601,One year,No internet,Yes
+4,90.90462617224327,One year,Fiber optic,No
+56,30.687692309474386,One year,Fiber optic,Yes
+25,76.73122196289034,Month-to-month,No internet,Yes
+67,45.65627837013638,Two year,DSL,No
+67,116.29268752375798,One year,No internet,No
+27,68.35456467199248,Month-to-month,No internet,Yes
+32,100.59925497751581,Two year,DSL,No
+50,75.02265421562618,Two year,No internet,No
+61,24.341253285481915,Month-to-month,No internet,Yes
+51,83.31513755940223,Month-to-month,No internet,No
+19,115.14033422066571,One year,DSL,No
+21,80.16118201463311,Two year,Fiber optic,Yes
+5,101.91888594267903,Two year,Fiber optic,No
+42,108.42064633484078,Month-to-month,DSL,No
+61,42.80797719489325,Two year,Fiber optic,No
+22,41.204483990822666,One year,No internet,Yes
+21,81.09809888509918,Two year,Fiber optic,Yes
+70,61.10284698067047,Month-to-month,No internet,No
+1,103.98613028667204,Month-to-month,Fiber optic,Yes
+5,110.00231233980112,One year,DSL,No
+12,55.34213793027181,One year,Fiber optic,No
+46,43.687055897448204,Two year,Fiber optic,No
+34,98.05255152438619,Two year,Fiber optic,No
+49,47.48060355481361,Month-to-month,DSL,No
+45,102.26143185136785,One year,Fiber optic,Yes
+27,62.37382536487628,One year,DSL,No
+26,86.75498992914704,One year,No internet,Yes
+47,29.55353138346682,Two year,Fiber optic,Yes
+56,82.3859324676573,One year,DSL,No
+63,65.17676787372291,Month-to-month,DSL,No
+48,78.66084631754741,Month-to-month,Fiber optic,No
+61,36.801420774486346,Two year,No internet,Yes
+26,93.68737449441821,Two year,DSL,No
+36,106.27970775432286,One year,Fiber optic,Yes
+1,41.67398000907757,Two year,No internet,No
+8,29.57145555201617,Month-to-month,DSL,Yes
+52,22.36385860463364,One year,DSL,No
+47,84.1971500443266,Month-to-month,No internet,No
+56,80.70940360887808,One year,No internet,No
+14,74.669741271407,Two year,Fiber optic,No
+28,43.194709611597546,One year,Fiber optic,No
+2,59.09059959055147,One year,DSL,No
+26,79.4476335186173,Month-to-month,No internet,Yes
+14,69.67668588591694,Month-to-month,No internet,Yes
+59,118.77855202148874,One year,No internet,No
+56,33.64397525567331,Two year,DSL,No
+7,89.51445540475937,Two year,No internet,No
+3,60.431876810429216,Month-to-month,No internet,Yes
+23,62.819961492561475,Two year,DSL,No
+18,91.75977656581762,Month-to-month,Fiber optic,No
+38,89.24361513243696,Two year,Fiber optic,No
+15,119.12559937021884,One year,DSL,No
+64,32.83942894541252,Month-to-month,No internet,No
+28,30.410964938416633,Month-to-month,DSL,Yes
+39,92.43388171287411,One year,Fiber optic,No
+57,77.83869170064091,Month-to-month,Fiber optic,No
+17,47.416066655980586,Two year,DSL,No
+44,27.94193689889866,Two year,DSL,Yes
+25,28.565824959643052,Month-to-month,Fiber optic,Yes
+17,109.41908746641182,Two year,DSL,No
+13,39.18673247187429,Month-to-month,Fiber optic,No
+25,52.33715621155208,One year,DSL,No
+68,42.6656402226988,Month-to-month,DSL,No
+10,55.49963058319373,One year,DSL,No
+67,26.94238427460934,Two year,Fiber optic,Yes
+18,71.90597909082703,One year,DSL,No
+34,26.76125635922149,Two year,Fiber optic,No
+8,100.03565078223616,Month-to-month,Fiber optic,No
+40,43.3712081910433,Two year,DSL,No
+42,74.00119146045105,Month-to-month,DSL,No
+41,108.00790875614582,Month-to-month,Fiber optic,No
+6,85.08773690471942,One year,Fiber optic,No
+52,73.29577865513353,One year,No internet,Yes
+26,52.43337531153756,One year,Fiber optic,Yes
+64,53.300191305819794,One year,No internet,No
+59,86.94869551981901,Two year,No internet,Yes
+56,119.41393612211675,Two year,No internet,Yes
+59,86.18391898493786,Two year,DSL,No
+70,75.77834173700249,Month-to-month,DSL,No
+33,93.06505102392461,Two year,Fiber optic,No
+53,66.52056122837182,Two year,No internet,Yes
+22,26.01423426007852,Two year,DSL,Yes
+21,76.22968158779098,One year,DSL,Yes
+70,115.76252845053801,Two year,DSL,Yes
+70,37.530294235765965,Month-to-month,DSL,No
+4,89.00048908206658,One year,DSL,Yes
+62,40.093368865905646,Month-to-month,No internet,No
+62,73.58276844730813,Two year,No internet,Yes
+24,29.66764496467196,One year,No internet,No
+55,65.03709362581851,Month-to-month,No internet,No
+9,95.61633288952461,Two year,Fiber optic,No
+3,54.757152423898205,Month-to-month,No internet,No
+31,86.4911724487218,Month-to-month,DSL,No
+40,99.54499607897291,Month-to-month,No internet,Yes
+36,112.71778194794527,Two year,Fiber optic,No
+24,43.46420818554535,Two year,DSL,No
+6,59.931591580930814,Month-to-month,No internet,No
+66,35.24160133304174,One year,No internet,Yes
+4,119.24835021583752,One year,No internet,Yes
+6,112.70009679242953,Two year,DSL,No
+51,73.99571302805596,Two year,DSL,No
+62,104.20332943764213,Two year,Fiber optic,No
+57,72.09579772720423,Two year,DSL,Yes
+66,82.35856880027598,Two year,DSL,No
+8,28.912443211601662,One year,No internet,Yes
+26,95.52704204968079,Two year,DSL,Yes
+51,32.77134836352349,Month-to-month,No internet,No
+45,102.60676302525283,Month-to-month,No internet,Yes
+44,98.20280876703859,One year,DSL,Yes
+5,90.87446977429764,Month-to-month,Fiber optic,No
+70,23.616038052476213,One year,Fiber optic,Yes
+26,50.31283559453286,One year,DSL,Yes
+68,46.311256991084285,Month-to-month,Fiber optic,Yes
+19,56.01364074715191,Two year,No internet,Yes
+20,28.764274676383856,Month-to-month,No internet,Yes
+12,113.69578230310628,Month-to-month,DSL,No
+47,75.38022407123762,One year,Fiber optic,Yes
+1,50.55243106580235,Month-to-month,Fiber optic,Yes
+14,59.698151707428345,One year,No internet,No
+64,64.72025405048356,Two year,DSL,No
+38,80.05943333606173,Two year,Fiber optic,No
+37,71.56794276964978,Two year,DSL,No
+11,111.93919732144174,Month-to-month,Fiber optic,No
+3,69.69634829058302,One year,No internet,No
+33,119.21580148233127,Two year,No internet,No
+6,105.14249577450957,One year,DSL,No
+50,40.85105143573358,One year,No internet,Yes
+10,113.05952146439162,Two year,Fiber optic,Yes
+5,31.63663978854761,Two year,No internet,Yes
+23,101.74497084911916,One year,DSL,No
+10,58.06232934765801,Two year,DSL,No
+44,107.79743204450695,One year,DSL,No
+2,106.80566901074504,One year,Fiber optic,No
+13,100.59254001176211,Two year,Fiber optic,No
+40,99.00304363070614,Month-to-month,Fiber optic,Yes
+2,50.46791390980408,Two year,Fiber optic,Yes
+65,28.09192830512522,Month-to-month,Fiber optic,No
+63,60.29801787651615,One year,No internet,No
+17,37.352451498650865,One year,Fiber optic,No
+9,89.49510889024617,Month-to-month,Fiber optic,No
+15,54.609972653778556,One year,No internet,Yes
+24,117.56102008599149,Month-to-month,Fiber optic,No
+38,84.0972077345332,Month-to-month,DSL,No
+35,102.24805636343609,One year,Fiber optic,No
+49,33.252467274184845,Month-to-month,Fiber optic,No
+69,106.20144822726226,Two year,DSL,Yes
+62,112.27571905133944,Two year,DSL,Yes
+60,68.70619188189359,One year,DSL,No
+50,80.62529377509775,One year,DSL,No
+9,96.48098009029954,Month-to-month,Fiber optic,No
+34,37.48386272604125,Month-to-month,DSL,Yes
+35,70.25660764634424,Month-to-month,DSL,No
+1,59.86630277723131,Month-to-month,No internet,Yes
+40,34.63739921622491,Two year,DSL,Yes
+64,56.753442229153144,Two year,DSL,No
+22,26.817230938549358,One year,No internet,No
+60,22.5811906949487,Month-to-month,No internet,Yes
+64,33.51662891548227,Month-to-month,Fiber optic,Yes
+11,116.31151115891738,One year,No internet,No
+14,74.9529535895017,Month-to-month,Fiber optic,Yes
+60,116.582216115322,Month-to-month,No internet,No
+30,63.2497878330132,Month-to-month,No internet,No
+35,51.181613308525954,Month-to-month,Fiber optic,Yes
+37,70.61418628402441,Month-to-month,No internet,Yes
+5,63.95116886329101,One year,Fiber optic,No
+26,30.566468426174392,Month-to-month,No internet,No
+62,84.08263146902063,One year,DSL,No
+4,41.60381825095996,Month-to-month,No internet,No
+42,81.95879548978296,Two year,Fiber optic,No
+18,85.02010923981534,Two year,No internet,No
+40,35.20248531286481,Two year,Fiber optic,No
+39,26.134962711066816,Two year,Fiber optic,No
+14,98.07615860684398,One year,DSL,No
+32,65.98004237693202,One year,DSL,No
+51,25.81637955054758,Month-to-month,Fiber optic,No
+38,119.48663171697672,Two year,No internet,No
+23,25.778056099636665,One year,Fiber optic,Yes
+63,89.50352288585532,Month-to-month,Fiber optic,No
+15,118.36789252634136,Month-to-month,No internet,Yes
+25,43.91801042159256,One year,No internet,Yes
+17,34.22493686871962,Two year,No internet,Yes
+66,32.13849394224289,Month-to-month,No internet,No
+53,50.327514756759555,Two year,Fiber optic,No
+51,30.104581101064667,Two year,Fiber optic,Yes
+39,89.2161341694132,Two year,DSL,No
+51,26.22917981300627,Month-to-month,Fiber optic,No
+70,70.94221281497897,Two year,No internet,Yes
+6,119.66968538529768,Month-to-month,DSL,No
+67,101.39702695060188,Two year,No internet,No
+7,81.52194382310108,Month-to-month,Fiber optic,No
+51,50.62536207866117,Two year,DSL,No
+42,82.38958362916384,One year,No internet,No
+64,72.70414639116515,Two year,DSL,Yes
+15,62.60833838903715,Two year,DSL,Yes
+29,33.07103767401995,Month-to-month,Fiber optic,Yes
+33,108.66042152404667,Month-to-month,No internet,No
+27,64.97846488213224,Two year,DSL,Yes
+36,39.46225118207651,One year,DSL,Yes
+29,56.77593508772896,One year,No internet,No
+38,61.4129752528927,Month-to-month,DSL,No
+57,102.75378955668742,One year,DSL,No
+27,93.3614380561402,Two year,DSL,Yes
+55,96.93048936413398,Month-to-month,No internet,Yes
+33,21.10312644286472,Two year,No internet,No
+68,61.615399817976154,Month-to-month,No internet,Yes
+66,68.13441516353237,Month-to-month,No internet,Yes
+10,21.919227682305667,Month-to-month,Fiber optic,No
+5,45.981320874503425,Month-to-month,DSL,No
+38,96.0289823122135,One year,No internet,No
+13,33.7109705728999,Two year,DSL,No
+31,73.53101314525917,Two year,DSL,No
+47,41.52018720172375,Two year,Fiber optic,Yes
+52,21.212077464389328,Month-to-month,No internet,No
+56,44.12014575995415,One year,No internet,Yes
+15,117.58737549100537,Two year,DSL,Yes
+29,100.15371118829896,One year,No internet,No
+8,115.95766443210334,Month-to-month,DSL,Yes
+5,68.78540439263625,Two year,DSL,No
+29,30.97361986775035,One year,Fiber optic,Yes
+47,74.7959488973693,Month-to-month,Fiber optic,No
+68,65.4377334559961,One year,Fiber optic,No
+45,104.4357082739616,Two year,DSL,Yes
+2,29.80825807842446,Two year,No internet,Yes
+27,68.82411370217781,Month-to-month,Fiber optic,No
+36,35.00486646939842,Month-to-month,No internet,No
+36,52.467592689006,Month-to-month,Fiber optic,No
+26,93.73570773877996,One year,Fiber optic,No
+43,67.60181293687666,One year,DSL,No
+27,57.58882851457693,One year,Fiber optic,No
+69,59.44762785700353,Month-to-month,Fiber optic,No
+20,65.94467684059866,Two year,DSL,No
+11,98.50165438370568,Two year,No internet,No
+38,109.20846889402344,One year,Fiber optic,No
+6,115.53346865039283,One year,DSL,No
+23,98.6903386255295,Two year,Fiber optic,No
+47,51.54068957480128,Two year,DSL,No
+46,88.81347060865421,One year,No internet,Yes
+12,63.760312405539196,One year,No internet,Yes
+13,45.467062204605114,Two year,DSL,No
+62,104.08715794259226,Month-to-month,DSL,No
+60,23.8426348962325,One year,DSL,No
+43,110.17619921354235,Two year,No internet,Yes
+68,66.1477464624734,Two year,Fiber optic,No
+5,83.72014768082803,Two year,No internet,No
+37,85.93539222057827,Two year,DSL,Yes
+31,109.51177407065364,Month-to-month,DSL,No
+9,83.66696821672073,Two year,No internet,No
+51,81.39335847600617,One year,DSL,No
+29,26.665204056068994,Month-to-month,No internet,No
+40,71.8408021945204,Two year,DSL,No
+41,35.016900081704165,Month-to-month,Fiber optic,No
+11,93.74337687214856,One year,Fiber optic,No
+23,71.22219208126745,Two year,DSL,No
+1,88.02277792083532,One year,No internet,No
+46,24.16729006023843,Two year,Fiber optic,No
+21,28.47920160458032,Two year,No internet,Yes
+36,91.63233880626822,Two year,DSL,No
+54,27.208433599867337,Two year,No internet,Yes
+57,27.12567277652586,Two year,Fiber optic,No
+1,21.210847523488745,Month-to-month,No internet,No
+63,115.65013982994802,Two year,No internet,Yes
+54,93.75083594590069,Two year,DSL,No
+55,55.32514085020642,Month-to-month,DSL,Yes
+40,49.653558128765525,Month-to-month,DSL,No
+15,54.97032297458495,Month-to-month,Fiber optic,No
+21,97.46535311811819,Month-to-month,Fiber optic,No
+47,86.13706110704143,Month-to-month,DSL,Yes
+53,38.51955678674679,Month-to-month,DSL,Yes
+9,37.41093353340844,Two year,Fiber optic,No
+52,29.839564971339733,Two year,Fiber optic,No
+57,86.03027197013381,One year,Fiber optic,No
+26,96.43726622217359,Two year,Fiber optic,No
+41,46.5046428325004,Two year,DSL,No
+35,22.09449610309128,Month-to-month,Fiber optic,No
+63,28.217166747642736,Month-to-month,DSL,No
+25,116.78600348450304,Two year,No internet,Yes
+38,49.54447774774202,One year,No internet,Yes
+2,96.92231478381336,Month-to-month,Fiber optic,No
+7,82.46635688542638,Two year,No internet,Yes
+34,58.19396396528959,Two year,No internet,No
+17,40.568726219555515,One year,No internet,No
+43,32.138641815940645,One year,Fiber optic,Yes
+59,81.50129680388666,Month-to-month,Fiber optic,Yes
+51,97.4633780637788,One year,No internet,No
+54,84.39042535411306,Two year,DSL,No
+24,73.03021332491583,Two year,No internet,No
+25,24.195122343163625,One year,Fiber optic,No
+71,116.84887775943838,One year,Fiber optic,No
+52,99.87141916545745,One year,Fiber optic,No
+70,49.28220367009648,One year,No internet,No
+33,117.99703293588506,Month-to-month,DSL,No
+49,80.18815896363222,One year,Fiber optic,No
+29,78.24226582072464,Month-to-month,Fiber optic,Yes
+63,94.8073179429532,Two year,No internet,No
+22,101.17697880901376,One year,DSL,No
+26,85.64786073315027,Month-to-month,No internet,Yes
+28,32.80957463662,One year,Fiber optic,Yes
+49,53.82675059944984,Two year,DSL,No
+71,112.80836403260497,Two year,DSL,No
+49,42.46156118438519,Two year,Fiber optic,No
+20,57.21670238375133,One year,DSL,Yes
+63,63.2076882944196,One year,DSL,Yes
+61,63.940498969445215,Month-to-month,No internet,No
+49,81.29395824945254,Two year,Fiber optic,No
+71,114.30758377447076,One year,Fiber optic,No
+1,44.06927118325049,Two year,Fiber optic,No
+13,32.150137630091805,Two year,Fiber optic,No
+51,39.74704898599373,Month-to-month,Fiber optic,No
+56,108.69249002092695,Month-to-month,DSL,No
+62,84.5810812655206,Month-to-month,No internet,No
+32,48.590678923916016,Month-to-month,Fiber optic,No
+30,101.59469389686173,Two year,No internet,No
+29,106.1369996363436,Month-to-month,No internet,No
+49,104.6514338690278,Month-to-month,DSL,No
+45,111.89265336395545,Month-to-month,Fiber optic,Yes
+30,45.22410201733616,Month-to-month,DSL,No
+16,95.50419287462783,Two year,Fiber optic,Yes
+40,66.053949727414,Month-to-month,DSL,No
+19,104.19985528900615,Two year,No internet,No
+18,92.84906771616131,One year,Fiber optic,No
+1,97.64474464997247,Two year,No internet,Yes
+47,85.61618376810715,Two year,No internet,No
+66,37.74287694697068,Month-to-month,DSL,No
+38,74.50269188969384,One year,Fiber optic,No
+51,118.46697395245081,One year,No internet,No
+63,113.73880664971189,One year,DSL,No
+4,24.31737357970117,One year,Fiber optic,No
+1,36.481481572943714,Two year,Fiber optic,Yes
+8,33.17287734545619,One year,No internet,Yes
+29,92.59799099852955,Two year,Fiber optic,No
+55,101.77853298569451,Two year,No internet,No
+3,41.35113663106719,Two year,Fiber optic,Yes
+32,70.5852692951829,One year,DSL,Yes
+10,104.07030280112,Month-to-month,No internet,Yes
+34,93.28015447662506,Month-to-month,No internet,No
+55,74.22372054918483,One year,Fiber optic,No
+32,79.03476904587728,Month-to-month,Fiber optic,No
+50,70.836054691628,Month-to-month,No internet,No
+7,49.75484513188206,Two year,Fiber optic,No
+8,76.50219928590161,Two year,DSL,Yes
+65,88.88853020500906,One year,Fiber optic,Yes
+57,107.33229158608077,One year,DSL,Yes
+67,83.62913539792481,Month-to-month,DSL,No
+59,96.1121537043158,Two year,DSL,No
+54,36.0071634954573,One year,DSL,Yes
+67,66.15574744197899,One year,DSL,No
+51,20.93316198270933,One year,Fiber optic,No
+8,44.66788645216231,One year,DSL,No
+34,92.64617151130048,One year,Fiber optic,Yes
+35,119.18099513493634,One year,DSL,No
+32,29.91780995872159,Month-to-month,No internet,No
