@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Churn Prediction App</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .error { color: red; }
+        .result { color: green; }
+        form { max-width: 400px; }
+        label { display: block; margin: 10px 0 5px; }
+        input, select { width: 100%; padding: 8px; margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Customer Churn Prediction</h1>
+    <form method="post">
+        <label for="tenure">Tenure (months):</label>
+        <input type="number" name="tenure" step="1" min="0" required>
+        <label for="monthly_charges">Monthly Charges ($):</label>
+        <input type="number" name="monthly_charges" step="0.01" min="0" required>
+        <label for="contract">Contract Type:</label>
+        <select name="contract" required>
+            <option value="Month-to-month">Month-to-month</option>
+            <option value="One year">One year</option>
+            <option value="Two year">Two year</option>
+        </select>
+        <label for="internet_service">Internet Service:</label>
+        <select name="internet_service" required>
+            <option value="Fiber optic">Fiber optic</option>
+            <option value="DSL">DSL</option>
+            <option value="No">No</option>
+        </select>
+        <input type="submit" value="Predict">
+    </form>
+    {% if error %}
+        <p class="error">{{ error }}</p>
+    {% endif %}
+    {% if result %}
+        <p class="result">Prediction: {{ result }}</p>
+    {% endif %}
+</body>
+</html>
